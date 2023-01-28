@@ -161,7 +161,9 @@ function Main() {
         <div className="my-work-paragraph-div">
           <p className="my-work-paragraph">
             Also this website is one of my works. You can check out the{" "}
-            <a href="https://github.com/jad-nasser/jadnasser.git">repository</a>{" "}
+            <a href="https://github.com/jad-nasser/jad-nasser.github.io.git">
+              repository
+            </a>{" "}
             for more details.
           </p>
         </div>
