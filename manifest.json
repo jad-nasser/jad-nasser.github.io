@@ -1,0 +1,16 @@
+{
+  "short_name": "Jad Nasser",
+  "name": "Jad Nasser Portfolio Website",
+  "icons": [
+    {
+      "src": "jad.png",
+      "type": "image/png",
+      "sizes": "241x241",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
