@@ -25,7 +25,7 @@ function Main() {
           <strong className="blue-gradient name">Nasser</strong>
         </h1>
         <h2 className="section__subtitle section__subtitle--intro">
-          Web Developer
+          Software Developer
         </h2>
       </section>
 
@@ -54,9 +54,9 @@ function Main() {
           <div className="service">
             <h3>Other Skills</h3>
             <p className="service-paragraph">
-              Familiar with programming concepts like OOP and MVC. Able to write
-              code using languages like Java, C, C++, C#, SWI-Prolog, GNU
-              Octave, MATLAB.
+              Familiar with Algorithms, Data Structures, and programming
+              concepts like OOP and MVC. Able to write code using languages like
+              Java, C, C++, C#, SWI-Prolog, GNU Octave, MATLAB.
             </p>
           </div>{" "}
           {/* </service> */}
@@ -73,8 +73,8 @@ function Main() {
 
         <div className="about-me__body">
           <p>
-            I'm a passionate, persistent junior full stack web developer. I've
-            graduated with a Bachelor's degree in Computer Science.
+            I'm a passionate and persistent Software Developer. I've graduated
+            with a Bachelor's degree in Computer Science.
           </p>
           <p>
             Always passionate about everything I do, especially in my
