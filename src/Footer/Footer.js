@@ -30,7 +30,7 @@ const Footer = () => {
       </a>
       <div className="address-and-phone">
         <div className="phone">+961 81 747098</div>
-        <div className="address">Nabatieh, Lebanon</div>
+        <div className="address">Bsatine, Aley, Mount Lebanon, Lebanon</div>
       </div>
     </footer>
   );
